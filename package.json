@@ -11,7 +11,7 @@
     "co-fs": "^1.2.0",
     "co-views": "^0.2.0",
     "finished": "^1.2.2",
-    "koa": "^0.8.0",
+    "koa": "^1.4.1",
     "koa-basic-auth": "^1.1.1",
     "koa-compose": "^2.3.0",
     "koa-csrf": "^2.1.1",
